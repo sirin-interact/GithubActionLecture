@@ -15,11 +15,12 @@
 ## 목차
 - [준비사항](#️-준비사항)
 
-  ### 1강
+  ### 1강 - 이론
   - Github Actions이란?
   - Workflows 란?
   - Jobs 란?
-  - 
+  - Steps 란?
+  - Actiosn 란?
 
 
 ## 준비사항
