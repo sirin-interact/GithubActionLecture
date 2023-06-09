@@ -15,6 +15,19 @@
 ## 목차
 - [준비사항](#️-준비사항)
 
+  ### 1강
+  - Github Actions이란?
+  - Workflows 란?
+  - Jobs 란?
+  - 
+
+
+## 준비사항
+- [GitHub 계정](https://github.com/)
+
+- [예제 소스 GitHub 저장소(준비중)](https://github.com)
+
+
 
 
 ## 💬 Contact
