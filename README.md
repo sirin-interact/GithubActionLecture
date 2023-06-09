@@ -2,7 +2,7 @@
 <br/>
 
 <p align="center">
-<img src="https://cdn.linkpy.kr/sirin/title.png" width="50%" alt="githubaction"/>
+<img src="https://cdn.linkpy.kr/sirin/title.png" width="90%" alt="githubaction"/>
 </p>
 
 <br/>
